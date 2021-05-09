@@ -1,1 +1,1 @@
-# Methods_and_models_for_multivariate_data_analysis_course
+Uni- and multivariate data analysis, regression models, QQ-plots, non-parametric estimation of plot density functions, correlations, statistical tests
